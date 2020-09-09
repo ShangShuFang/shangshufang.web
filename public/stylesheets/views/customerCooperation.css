@@ -1,0 +1,12 @@
+.main {
+    margin-top: 80px;
+}
+
+.main p {
+    text-indent: 2em;
+    line-height: 2em;
+}
+
+.main ul li {
+    line-height: 2em;
+}
